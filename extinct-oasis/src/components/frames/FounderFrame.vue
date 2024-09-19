@@ -3,6 +3,7 @@
     <img class="picture" :src="founder.image" alt="Updates Image" />
     <p>{{ founder.name }}</p>
     <p>Got Dusty: {{ founder.years }} Times</p>
+    <p>{{ founder.description }}</p>
   </div>
 </template>
 
